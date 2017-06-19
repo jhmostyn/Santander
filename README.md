@@ -1,2 +1,3 @@
 # Santander
-Project to derive banking customer ages from their demographics and products, then a product recommendation engine
+A project to derive banking customer ages from their demographics and products, plus the formal, product recommendation Kaggle Challenge.
+
